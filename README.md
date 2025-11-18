@@ -1,0 +1,17 @@
+Automotores
+
+. objetivo do Projeto: Compra e vendas de carros
+
+EQUIPE: Lucas Gabriel Gonçalves, Pedro Henrique klipp Cani, Murilo Rôza Bello, Enzo Satiro, Arthur Wiggers e João Vitor Botemberger Celestino
+
+Como usar o site:
+Abra o arquivo "index.html" no navegador.
+
+Edite o conteúdo dentro das pastas conforme necessário.
+
+#Estrutura do Site: Automotors/index.html
+
+Tecnologias utilizadas: HTML5 CS53 Javascript
+
+licença
+Este projeto é de uso livre para investimentos e vendas
